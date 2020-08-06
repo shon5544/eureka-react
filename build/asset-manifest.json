@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eureka-app/static/css/main.b2b9954d.chunk.css",
+    "main.js": "/eureka-app/static/js/main.fc55067f.chunk.js",
+    "main.js.map": "/eureka-app/static/js/main.fc55067f.chunk.js.map",
+    "runtime-main.js": "/eureka-app/static/js/runtime-main.f6c77036.js",
+    "runtime-main.js.map": "/eureka-app/static/js/runtime-main.f6c77036.js.map",
+    "static/js/2.46580d50.chunk.js": "/eureka-app/static/js/2.46580d50.chunk.js",
+    "static/js/2.46580d50.chunk.js.map": "/eureka-app/static/js/2.46580d50.chunk.js.map",
+    "index.html": "/eureka-app/index.html",
+    "precache-manifest.9ba248dcfddb2b3e62b1f98f61cc8423.js": "/eureka-app/precache-manifest.9ba248dcfddb2b3e62b1f98f61cc8423.js",
+    "service-worker.js": "/eureka-app/service-worker.js",
+    "static/css/main.b2b9954d.chunk.css.map": "/eureka-app/static/css/main.b2b9954d.chunk.css.map",
+    "static/js/2.46580d50.chunk.js.LICENSE.txt": "/eureka-app/static/js/2.46580d50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c77036.js",
+    "static/js/2.46580d50.chunk.js",
+    "static/css/main.b2b9954d.chunk.css",
+    "static/js/main.fc55067f.chunk.js"
+  ]
+}
